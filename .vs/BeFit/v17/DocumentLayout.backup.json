@@ -1,0 +1,554 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\pz\\BeFit\\BeFit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\views\\performedexercises\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\views\\performedexercises\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\views\\trainingsessions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\views\\trainingsessions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\views\\trainingsessions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\views\\trainingsessions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\pz\\BeFit\\BeFit\\BeFit\\Migrations\\20251130193010_Identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BeFit\\Migrations\\20251130193010_Identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\views\\performedexercises\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\views\\performedexercises\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\controllers\\trainingsessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\controllers\\trainingsessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\pz\\BeFit\\BeFit\\BeFit\\Migrations\\20251130191441_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BeFit\\Migrations\\20251130191441_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\controllers\\performedexercisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\controllers\\performedexercisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\pz\\BeFit\\BeFit\\BeFit\\Migrations\\20251130191000_Identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BeFit\\Migrations\\20251130191000_Identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\views\\performedexercises\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\views\\performedexercises\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\models\\performedexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\models\\performedexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\pz\\BeFit\\BeFit\\BeFit\\Migrations\\20251130190301_Identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BeFit\\Migrations\\20251130190301_Identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\models\\trainingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\models\\trainingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\pz\\BeFit\\BeFit\\BeFit\\Migrations\\20251130185728_Identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BeFit\\Migrations\\20251130185728_Identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\views\\trainingsessions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\views\\trainingsessions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\controllers\\exercisetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\controllers\\exercisetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\models\\exercisetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\models\\exercisetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\pz\\BeFit\\BeFit\\Migrations\\20251128222308_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251128222308_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\pz\\BeFit\\BeFit\\Migrations\\20251128222149_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251128222149_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\models\\exercisestatsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\models\\exercisestatsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\views\\stats\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\views\\stats\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|e:\\pz\\befit\\befit\\befit\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D69154EE-BDA0-45B0-8C98-CC0707FCEFB4}|BeFit\\BeFit.csproj|solutionrelative:befit\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Views\\PerformedExercises\\Details.cshtml",
+              "RelativeDocumentMoniker": "BeFit\\Views\\PerformedExercises\\Details.cshtml",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Views\\PerformedExercises\\Details.cshtml",
+              "RelativeToolTip": "BeFit\\Views\\PerformedExercises\\Details.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T19:29:09.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251130191441_InitialCreate.cs",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Migrations\\20251130191441_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BeFit\\Migrations\\20251130191441_InitialCreate.cs",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Migrations\\20251130191441_InitialCreate.cs",
+              "RelativeToolTip": "BeFit\\Migrations\\20251130191441_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T19:14:41.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20251130185728_Identity.cs",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Migrations\\20251130185728_Identity.cs",
+              "RelativeDocumentMoniker": "BeFit\\Migrations\\20251130185728_Identity.cs",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Migrations\\20251130185728_Identity.cs",
+              "RelativeToolTip": "BeFit\\Migrations\\20251130185728_Identity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T18:57:28.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Views\\PerformedExercises\\Create.cshtml",
+              "RelativeDocumentMoniker": "BeFit\\Views\\PerformedExercises\\Create.cshtml",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Views\\PerformedExercises\\Create.cshtml",
+              "RelativeToolTip": "BeFit\\Views\\PerformedExercises\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T18:44:56.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Views\\TrainingSessions\\Details.cshtml",
+              "RelativeDocumentMoniker": "BeFit\\Views\\TrainingSessions\\Details.cshtml",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Views\\TrainingSessions\\Details.cshtml",
+              "RelativeToolTip": "BeFit\\Views\\TrainingSessions\\Details.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T18:44:26.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Views\\TrainingSessions\\Index.cshtml",
+              "RelativeDocumentMoniker": "BeFit\\Views\\TrainingSessions\\Index.cshtml",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Views\\TrainingSessions\\Index.cshtml",
+              "RelativeToolTip": "BeFit\\Views\\TrainingSessions\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T18:43:56.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PerformedExercisesController.cs",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Controllers\\PerformedExercisesController.cs",
+              "RelativeDocumentMoniker": "BeFit\\Controllers\\PerformedExercisesController.cs",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Controllers\\PerformedExercisesController.cs",
+              "RelativeToolTip": "BeFit\\Controllers\\PerformedExercisesController.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAA2wPUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:30:51.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PerformedExercise.cs",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Models\\PerformedExercise.cs",
+              "RelativeDocumentMoniker": "BeFit\\Models\\PerformedExercise.cs",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Models\\PerformedExercise.cs",
+              "RelativeToolTip": "BeFit\\Models\\PerformedExercise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:03:03.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Views\\PerformedExercises\\Index.cshtml",
+              "RelativeDocumentMoniker": "BeFit\\Views\\PerformedExercises\\Index.cshtml",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Views\\PerformedExercises\\Index.cshtml",
+              "RelativeToolTip": "BeFit\\Views\\PerformedExercises\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T18:51:57.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251130193010_Identity.cs",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Migrations\\20251130193010_Identity.cs",
+              "RelativeDocumentMoniker": "BeFit\\Migrations\\20251130193010_Identity.cs",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Migrations\\20251130193010_Identity.cs",
+              "RelativeToolTip": "BeFit\\Migrations\\20251130193010_Identity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T19:30:11.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Program.cs",
+              "RelativeDocumentMoniker": "BeFit\\Program.cs",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Program.cs",
+              "RelativeToolTip": "BeFit\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:48:54.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrainingSessionsController.cs",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Controllers\\TrainingSessionsController.cs",
+              "RelativeDocumentMoniker": "BeFit\\Controllers\\TrainingSessionsController.cs",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Controllers\\TrainingSessionsController.cs",
+              "RelativeToolTip": "BeFit\\Controllers\\TrainingSessionsController.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAuwAUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:31:30.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251130191000_Identity.cs",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Migrations\\20251130191000_Identity.cs",
+              "RelativeDocumentMoniker": "BeFit\\Migrations\\20251130191000_Identity.cs",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Migrations\\20251130191000_Identity.cs",
+              "RelativeToolTip": "BeFit\\Migrations\\20251130191000_Identity.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T19:10:00.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TrainingSession.cs",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Models\\TrainingSession.cs",
+              "RelativeDocumentMoniker": "BeFit\\Models\\TrainingSession.cs",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Models\\TrainingSession.cs",
+              "RelativeToolTip": "BeFit\\Models\\TrainingSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:02:37.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\appsettings.json",
+              "RelativeDocumentMoniker": "BeFit\\appsettings.json",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\appsettings.json",
+              "RelativeToolTip": "BeFit\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-28T20:47:49.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20251130190301_Identity.cs",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Migrations\\20251130190301_Identity.cs",
+              "RelativeDocumentMoniker": "BeFit\\Migrations\\20251130190301_Identity.cs",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Migrations\\20251130190301_Identity.cs",
+              "RelativeToolTip": "BeFit\\Migrations\\20251130190301_Identity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T19:03:01.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BeFit\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BeFit\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T18:45:50.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Views\\TrainingSessions\\Create.cshtml",
+              "RelativeDocumentMoniker": "BeFit\\Views\\TrainingSessions\\Create.cshtml",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Views\\TrainingSessions\\Create.cshtml",
+              "RelativeToolTip": "BeFit\\Views\\TrainingSessions\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T18:51:30.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BeFit\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BeFit\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvzQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T22:24:22.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExerciseTypesController.cs",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Controllers\\ExerciseTypesController.cs",
+              "RelativeDocumentMoniker": "BeFit\\Controllers\\ExerciseTypesController.cs",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Controllers\\ExerciseTypesController.cs",
+              "RelativeToolTip": "BeFit\\Controllers\\ExerciseTypesController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAiwKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:30:08.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BeFit\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BeFit\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:14:08.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StatsController.cs",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Controllers\\StatsController.cs",
+              "RelativeDocumentMoniker": "BeFit\\Controllers\\StatsController.cs",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Controllers\\StatsController.cs",
+              "RelativeToolTip": "BeFit\\Controllers\\StatsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:43:16.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "BeFit\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeToolTip": "BeFit\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T23:01:19.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ExerciseType.cs",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Models\\ExerciseType.cs",
+              "RelativeDocumentMoniker": "BeFit\\Models\\ExerciseType.cs",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Models\\ExerciseType.cs",
+              "RelativeToolTip": "BeFit\\Models\\ExerciseType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:02:10.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "BeFit\\Models\\AppUser.cs",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Models\\AppUser.cs",
+              "RelativeToolTip": "BeFit\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:54:00.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChangePassword.cshtml.cs",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeDocumentMoniker": "BeFit\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeToolTip": "BeFit\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T23:02:12.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BeFit\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BeFit\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:03:19.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20251128222308_Initial.cs",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\Migrations\\20251128222308_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251128222308_Initial.cs",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\Migrations\\20251128222308_Initial.cs",
+              "RelativeToolTip": "Migrations\\20251128222308_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T22:23:08.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20251128222149_Initial.cs",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\Migrations\\20251128222149_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251128222149_Initial.cs",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\Migrations\\20251128222149_Initial.cs",
+              "RelativeToolTip": "Migrations\\20251128222149_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T22:21:49.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ExerciseStatsViewModel.cs",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Models\\ExerciseStatsViewModel.cs",
+              "RelativeDocumentMoniker": "BeFit\\Models\\ExerciseStatsViewModel.cs",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Models\\ExerciseStatsViewModel.cs",
+              "RelativeToolTip": "BeFit\\Models\\ExerciseStatsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:42:16.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Views\\Stats\\Index.cshtml",
+              "RelativeDocumentMoniker": "BeFit\\Views\\Stats\\Index.cshtml",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Views\\Stats\\Index.cshtml",
+              "RelativeToolTip": "BeFit\\Views\\Stats\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T21:44:17.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\pz\\BeFit\\BeFit\\BeFit\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BeFit\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\pz\\BeFit\\BeFit\\BeFit\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BeFit\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T20:15:05.674Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

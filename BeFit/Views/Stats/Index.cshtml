@@ -1,0 +1,31 @@
+﻿@model IEnumerable<ExerciseStatsViewModel>
+
+@{
+    ViewData["Title"] = "Statystyki ćwiczeń (ostatnie 4 tygodnie)";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Ćwiczenie</th>
+            <th>Ile razy wykonane</th>
+            <th>Łączna liczba powtórzeń</th>
+            <th>Średnie obciążenie [kg]</th>
+            <th>Maksymalne obciążenie [kg]</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ExerciseName</td>
+                <td>@item.ExecutionsCount</td>
+                <td>@item.TotalRepetitions</td>
+                <td>@item.AverageLoad.ToString("0.##")</td>
+                <td>@item.MaxLoad</td>
+            </tr>
+        }
+    </tbody>
+</table>
